@@ -1,0 +1,21 @@
+{
+    "short_name": "Epic Game",
+    "name": "#1 Online Fantasy Game",
+    "icons": [
+      {
+       "src": "/images/512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "/images/512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/index.php",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "theme_color": "#ffffff"
+  }
+  
